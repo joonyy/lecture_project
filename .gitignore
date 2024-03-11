@@ -1,8 +1,9 @@
-.DS_Store
-node_modules/g
+node_modules/
 dist/
 .cache/
 *.vscode
 *.parcel-cache
 *.log
 *.tgz
+
+.DS_Store
