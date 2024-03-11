@@ -1,1 +1,8 @@
 .DS_Store
+node_modules/g
+dist/
+.cache/
+*.vscode
+*.parcel-cache
+*.log
+*.tgz
